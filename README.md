@@ -1,5 +1,5 @@
 <h1>
-C# Windows Forms Projects: Login, Address Book, and Drawing Applications  
+C# Windows Forms Projects: Login, Address Book, and Drawing Applications
 </h1>
 
 Welcome to my C# Applications repository! This repository features three unique projects developed using Windows Forms, each demonstrating various UI components, event handling techniques, and application logic.
